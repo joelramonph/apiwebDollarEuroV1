@@ -1,7 +1,7 @@
 # Web Api Dollar Euro
 
 ## Descripción
-La Web Api Dollar Euro proporciona valores de cambio entre el Euro y el Dólar.
+La Web Api Dollar Euro proporciona valores simulados de cambio entre el Euro y el Dólar.
 
 ## Base URL
 
@@ -9,9 +9,9 @@ La Web Api Dollar Euro proporciona valores de cambio entre el Euro y el Dólar.
 
 ### Obtener Valor de Cambio
 
-- **Endpoint:** `/exchange-rate`
+- **Endpoint:** `/diferencia-tasa`
 - **Método:** `GET`
-- **Descripción:** Obtiene el valor de cambio actual entre el Euro y el Dólar.
+- **Descripción:** Obtiene el valor diferencial de cambio simulado entre el Euro y el Dólar.
 
 #### Parámetros de la Solicitud
 
