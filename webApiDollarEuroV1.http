@@ -1,0 +1,6 @@
+@webApiDollarEuroV1_HostAddress = http://localhost:5294
+
+GET {{webApiDollarEuroV1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
