@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webApiDollarEuroV1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74bc9b20ba21a6f528dd24bd67ccbf180645ba52")]
 [assembly: System.Reflection.AssemblyProductAttribute("webApiDollarEuroV1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webApiDollarEuroV1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

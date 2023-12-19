@@ -30,3 +30,4 @@ D:\ProyectosC#\repoApiWeb\webApiDollarEuroV1\webApiDollarEuroV1\obj\Debug\net8.0
 D:\ProyectosC#\repoApiWeb\webApiDollarEuroV1\webApiDollarEuroV1\obj\Debug\net8.0\webApiDollarEuroV1.pdb
 D:\ProyectosC#\repoApiWeb\webApiDollarEuroV1\webApiDollarEuroV1\obj\Debug\net8.0\webApiDollarEuroV1.genruntimeconfig.cache
 D:\ProyectosC#\repoApiWeb\webApiDollarEuroV1\webApiDollarEuroV1\obj\Debug\net8.0\ref\webApiDollarEuroV1.dll
+D:\ProyectosC#\repoApiWeb\webApiDollarEuroV1\webApiDollarEuroV1\obj\Debug\net8.0\webApiDollarEuroV1.sourcelink.json
